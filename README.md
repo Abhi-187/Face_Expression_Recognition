@@ -22,7 +22,7 @@
 
 ## About The Project
 
-![Screen Shot](op1.jepg)
+![Screen Shot](/op1.jepg)
 
 This project focuses on developing an automatic facial emotion recognition system using Convolutional Neural Networks (CNNs). The system aims to extract discriminative features from facial images and classify them into different emotion categories. The report provides an introduction to the significance of automatic facial emotion recognition and outlines the project's objectives. It includes a review of existing research on facial emotion recognition and the role of CNNs in computer vision tasks. The dataset used for training and evaluation is described, along with preprocessing techniques. The methodology section explains the CNN model architecture, training procedure, and evaluation metrics. The results showcase the system's performance using accuracy, precision, recall, and F1-score, supported by visual representations like confusion matrices. The report concludes by summarizing the achievements, discussing limitations, and suggesting future improvements, highlighting the potential impact of automatic facial emotion recognition systems in various domains.
 
